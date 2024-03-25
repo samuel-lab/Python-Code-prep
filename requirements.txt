@@ -1,0 +1,6 @@
+# requirements.txt
+tkinter
+os
+json
+subprocess
+logging
