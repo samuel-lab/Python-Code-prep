@@ -18,10 +18,9 @@ This project is designed to create a predefined directory structure and files fo
 
 ## File Structure
 Upon running the script, the following file structure will be created:
-
-<project_name>/
-├── README.md \n
-├── main.py \n
+```
+├── README.md 
+├── main.py 
 ├── requirements.txt
 ├── Makefile
 ├── .gitignore
@@ -41,7 +40,7 @@ Upon running the script, the following file structure will be created:
 │   └── note.txt
 └── debug/
     └── app.log
-
+```
 
 ## Installation
 Ensure you have Python 3 installed on your system. Then, follow these steps:
