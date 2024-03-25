@@ -47,16 +47,18 @@ Ensure you have Python 3 installed on your system. Then, follow these steps:
 
 1. Clone this repository:
     ```
-    git clone <repository_url>
+    git clone https://github.com/samuel-lab/Python-Code-prep.git
     ```
 2. Navigate to the project directory:
     ```
     cd python-code-prep
     ```
 3. Run:
-    ```
-    As in Usage
-    ```
+      For Windows:
+    Run ```start.bat```
+
+      For Mac OS and Linux:
+    Run ```start.sh```
 
 ## Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvement.
