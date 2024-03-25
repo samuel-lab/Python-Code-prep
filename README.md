@@ -53,12 +53,16 @@ Ensure you have Python 3 installed on your system. Then, follow these steps:
     ```
     cd python-code-prep
     ```
-3. Run:
-      For Windows:
-    Run ```start.bat```
+3. Run to start:
+    1. For Windows:
+     ```
+     start.bat
+     ```
 
-      For Mac OS and Linux:
-    Run ```start.sh```
+    2. For Mac OS and Linux: 
+    ```
+    start.sh
+    ```
 
 ## Contributing
 Contributions are welcome! Please feel free to submit pull requests or open issues if you encounter any problems or have suggestions for improvement.
