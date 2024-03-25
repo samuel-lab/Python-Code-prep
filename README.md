@@ -20,8 +20,8 @@ This project is designed to create a predefined directory structure and files fo
 Upon running the script, the following file structure will be created:
 
 <project_name>/
-├── README.md /n
-├── main.py /n
+├── README.md \n
+├── main.py \n
 ├── requirements.txt
 ├── Makefile
 ├── .gitignore
